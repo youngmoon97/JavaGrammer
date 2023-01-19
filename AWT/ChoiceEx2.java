@@ -7,7 +7,7 @@ import java.awt.Label;
 import java.awt.event.ItemListener;
 import java.awt.event.ItemEvent;
 
-public class ChoiceEx2 extends MFrame 
+public class ChoiceEx2 extends MFrame2 
 implements ItemListener{
 	String sair[] = {"대한항공","아시아나","에어부산","진에어"};
 	String scity[] = {"서 울","대 전","대 구","부 산","제주도"};

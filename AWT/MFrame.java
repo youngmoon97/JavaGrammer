@@ -26,7 +26,6 @@ public class MFrame extends Frame{
 
 	public MFrame(int w, int h, Color c, boolean flag) {
 		setSize(w, h);
-		setLayout(new FlowLayout());
 		setBackground(c);
 		addWindowListener(new WindowAdapter() {
 			@Override

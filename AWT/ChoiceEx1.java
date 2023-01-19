@@ -3,7 +3,7 @@ package AWT;
 import java.awt.Choice;
 import java.awt.Color;
 
-public class ChoiceEx1 extends MFrame {
+public class ChoiceEx1 extends MFrame2 {
 	String city[] = {"도시를 선택하세요.","베를린","파 리",
 			"하와이","런 던","평 양","뉴 욕"};
 	Choice ch;
